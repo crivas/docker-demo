@@ -27,5 +27,5 @@ node {
    //  docker.withRegistry('https://index.docker.io/v2/', 'dockerhub') {
    //    def app = docker.build("crivas82/docker-nodejs-demo:${commit_id}", '.').push()
    //  }                                     
-   }                                       
+   // }                                       
 }                                          
